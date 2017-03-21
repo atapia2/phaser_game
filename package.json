@@ -1,0 +1,25 @@
+{
+  "version": "0.0.0",
+  "name": "awesome-game",
+  "version": "0.0.0",
+  "author": "",
+  "license": "MIT",
+  
+  "repository": "atapia2/phaser_game",
+  "author": "atapia2",
+  
+  "dependencies": {
+    "browserify": "*",
+    "browser-sync": "*",
+    "del": "*",
+    "gulp": "*",
+    "gulp-connect": "*",
+    "gulp-gh-pages": "*", 
+    "gulp-rsync": "*",
+    "gulp-util": "*",
+    "merge-stream": "*",
+    "phaser": "*",
+    "vinyl-source-stream": "*",
+    "watchify": "*"
+  }
+}
